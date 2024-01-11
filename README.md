@@ -12,7 +12,7 @@ NumPy
 
 To use this script, you need to have Python installed on your system. Additionally, you will need the OpenCV and NumPy libraries. You can install these libraries using pip:
 ```
-pip install opencv-python numpy
+pip3 install opencv-python numpy
 ```
 
 
@@ -20,6 +20,6 @@ pip install opencv-python numpy
 
 After installing the required libraries, you can run the script as follows:
 ```
-python player_detection.py
+python3 player_detection.py
 ```
 
